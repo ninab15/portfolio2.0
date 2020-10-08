@@ -1,0 +1,43 @@
+.hero {
+    background-image: url(img/splash.jpg);
+    height: 100vh;
+}
+
+.box {
+    height: 350px;
+    width: 300px;
+    background-color: lightblue;
+}
+
+h1 {}
+
+h2 {}
+
+h3 {
+    transform: rotate(90deg);
+    font-family: 'Work Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+}
+
+button {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1.2;
+    padding: 7px 10px;
+    border-radius: 3px;
+    border: 1px solid black;
+    text-align: center;
+    text-decoration: none;
+    font: bold 14px;
+    letter-spacing: 1px;
+    color: black;
+    text-transform: uppercase;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    margin: 0 1rem 1rem 0;
+    background: white;
+}
+
+}
+
+p {}
